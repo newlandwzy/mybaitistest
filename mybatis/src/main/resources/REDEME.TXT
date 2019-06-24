@@ -1,0 +1,3 @@
+目前只做了mapperScan
+1 spring包下构建springBean 并置入容器中
+2 proxy包下是对mapper的代理处理,实际的sql执行
